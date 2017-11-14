@@ -1,0 +1,106 @@
+%d Review(s),%d Comentario(s)
+%s Review(s),%s Comentario(s)
+(Posted on %s),(Publicado en %s)
+1 star,1 Estrella
+2 star,2 Estrella
+2 stars,2 Estrellas
+3 star,3 Estrella
+3 stars,3 Estrellas
+4 star,4 Estrella
+4 stars,4 Estrellas
+5 star,5 Estrella
+5 stars,5 Estrellas
+"<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>"
+"<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s</a> <a href=""mailto:%3$s"">(%3$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s</a> <a href=""mailto:%3$s"">(%3$s)</a>"
+Add New Review,Agregar Nueva comentario
+Add Your Review,Agregar Tu comentario
+Administrator,Administrador
+All Reviews,Todos los comentarios
+All Reviews of Customer `%s`,Todos los comentarios del comprador  `%s`
+All Reviews of Product `%s`,Todos los comentarios del producto `%s`
+Allow Guests to Write Reviews,Permitir a los invitados escribir Comentarios
+Approved,Aprobado
+Are you sure you want to do this?,Estas seguro que quieres hacer esto?
+Are you sure?,Estas seguro?
+Average Customer Rating,Calificación promedio del cliente
+Average Customer Rating:,Calificación promedio del cliente:
+Back,Volver
+Back to Main Product Info,Volver a la información del producto principal
+Back to My Reviews,Volver a Mis revisiones
+Back to Product Reviews,Volver a Comentarios de productos
+Be the first to review this product,Sé el primero en opinar sobre este producto
+Catalog Product Review View,Vista de Comentarios del producto de catálogo
+Catalog Product Reviews List,Lista de Comentarios de productos de catálogo
+Created On,Creado en
+Customer,Cliente
+Customer My Account Product Reviews,Cliente Mi cuenta Comentarios de productos
+Customer My Account Review Details,Cliente Detalles de Comentarios de mi cuenta
+Customer Reviews,Comentarios del cliente
+Customers Reviews,Comentarios del los clientes
+Delete,Borrar
+Delete Review,Borrar comentario
+Detailed Rating,Calificación detallada
+Edit Review '%s',Editar comentario '%s'
+Guest,Invitado
+How do you rate this product?,¿Cómo calificas este producto?
+ID,ID
+Let us know your thoughts,Háganos saber sus pensamientos
+Manage Ratings,Administrar calificaciones
+My Product Reviews,Mis Comentarios del producto
+My Recent Reviews,Mis Comentarios recientes
+Name,Nombre
+Name in Store,Nombre en la tienda
+New Review,Nueva comentario
+Nickname,Apodo
+Nickname can\'t be empty,el Apodo no puede estar vacío
+Not Approved,No aprobado
+"Only registered users can write reviews. Please, <a href=""%s"">log in</a> or <a href=""%s"">register</a>","Solo los usuarios registrados pueden escribir reseñas. Por favor, <a href=""%s""> ingrese </a> o <a href=""%s""> regístrese </a>"
+Pending,Pendiente
+Pending Reviews,Comentarios pendientes
+Pending Reviews of Customer `%s`,Comentarios pendientes del cliente  `%s`
+Please select a product,Por favor seleccione un producto
+Please select one of each of the ratings above,Seleccione una de cada una de las calificaciones anteriores
+Posted By,Publicado por
+Price,Precio
+Product,Producto
+Product Name,Nombre del producto
+Product Rating,Calificación del producto
+Product Rating:,Calificación del producto:
+Product Review (submitted on %s):,Revisión del producto (enviado en % s):
+Product Reviews,Comentarios del Producto
+Product SKU,SKU del producto
+Products Reviews,Comentarios de los Productos
+Qty,Cant.
+Rating:,Clasificación:
+Review,Comentarios
+Review (submitted on %s):,Comentarios (enviado en %s):
+Review Details,Detalles del Comentario
+Review Form Fields Before,Revisar campos de formulario antes
+Review by %s,Comentario de %s
+Review by <span>%s</span>,Comentario de<span>%s</span>
+Review can\'t be empty,El Comentario no puede estar vacío
+Review summary can\'t be empty,El resumen de los comentarios no puede estar vacío
+Reviews,Comentarios
+Reviews and Ratings,Comentarios y Puntuación
+SKU,SKU
+Save Review,Guardar Comentario
+Status,Estado
+Submit Review,Enviar Comentario
+Summary Rating,Calificación resumida
+Summary of Review,Resumen de comentarios
+Summary of Your Review,Resumen de tus comentarios
+Title,Titulo
+Type,Tipo
+Unable to post the review.,No se pudo publicar el comentario.
+Update Status,Estado de actualización
+View All Reviews,Ver todos los comentarios
+View Details,Ver detalles
+Visible In,Visible en
+Websites,Sitios web
+What's your nickname?,¿Cuál es tu apodo?
+Write Your Own Review,Escriba su propio comentarios
+You have submitted no reviews.,No ha enviado comentarios.
+You're reviewing:,Estás comentando:
+Your Rating:,Tu puntuación:
+Your Review (submitted on %s):,Tu puntuación (enviado en %s):
+Your review has been accepted for moderation.,Tu comentario ha sido aceptada por el moderador.
